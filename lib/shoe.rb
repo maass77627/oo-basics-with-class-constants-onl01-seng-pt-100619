@@ -1,4 +1,4 @@
-require 'pry'
+
 
 class Shoe
  
@@ -14,7 +14,6 @@ class Shoe
       else
         BRANDS << brand
      end
-    #binding.pry
   end 
 
 
